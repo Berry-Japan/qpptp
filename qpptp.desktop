@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PPTP connect
+Name[ja]=PPTP接続
+Comment=PPTP setting for Berry Linux.
+Comment[ja]=PPTPの設定をします。
+Exec=kdesu /opt/berry/qpptp
+Icon=network_local
+Type=Application
+Encoding=UTF-8
+Categories=X-Red-Hat-Base;Application;Berry;
